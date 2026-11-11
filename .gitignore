@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+PBL1_results/
+*.pickle
+*.pkl
+*.keras
+*.h5
+*.npz
+*.joblib
+.env
